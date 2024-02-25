@@ -21,3 +21,5 @@ To get started with MetaStatus, follow these steps:
 - A little ETH in your MetaMask wallet for gas fees (if interacting with the mainnet)
 ![Снимок экрана 2024-02-25 233031](https://github.com/Moldakhmetov21/BlockChainAss4/assets/156776337/617f58f2-28a1-49fe-aab9-a7a9835f8154)
 ![Снимок экрана 2024-02-25 233116](https://github.com/Moldakhmetov21/BlockChainAss4/assets/156776337/629b159b-f4b1-4247-b58a-442129d5882f)
+![изображение](https://github.com/Moldakhmetov21/BlockChainAss4/assets/156776337/87733d86-6887-43f3-bfb7-915f312c43fc)
+
