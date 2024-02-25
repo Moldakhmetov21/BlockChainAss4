@@ -1,40 +1,23 @@
-## Getting Started
+# MetaStatus - A MetaMask-Only Status Update Platform
 
-Create a project using this example:
+MetaStatus is a decentralized application (dApp) that offers a simple yet powerful social experience. It allows users to register and authenticate exclusively via MetaMask, post status updates, and view updates from other users on the Ethereum blockchain.
 
-```bash
-npx thirdweb create --template next-typescript-starter
-```
+## Features
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- **MetaMask Authentication**: Secure sign-in that ensures only the owner of an Ethereum address can post and interact with statuses.
+- **Status Updates**: Users can post their thoughts, updates, and any text content tied to their Ethereum address.
+- **Browse Updates**: Scroll through a feed of status updates posted by other users on the platform.
+- **Ethereum Integration**: All statuses are transactions and are recorded on the Ethereum blockchain for transparency and immutability.
 
-On `pages/_app.tsx`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
+## Quick Start
 
-## Environment Variables
+To get started with MetaStatus, follow these steps:
 
-To run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to `.env.local` file or set them up on your hosting provider.
+### Prerequisites
 
-## Deploy to IPFS
-
-Deploy a copy of your application to IPFS using the following command:
-
-```bash
-yarn deploy
-```
-
-## Learn More
-
-To learn more about thirdweb and Next.js, take a look at the following resources:
-
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb TypeScript Documentation](https://docs.thirdweb.com/typescript) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Templates](https://thirdweb.com/templates)
-
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+- Node.js (v14.0 or higher)
+- npm (v6.0 or higher)
+- MetaMask extension installed in your browser
+- A little ETH in your MetaMask wallet for gas fees (if interacting with the mainnet)
+![Снимок экрана 2024-02-25 233031](https://github.com/Moldakhmetov21/BlockChainAss4/assets/156776337/617f58f2-28a1-49fe-aab9-a7a9835f8154)
+![Снимок экрана 2024-02-25 233116](https://github.com/Moldakhmetov21/BlockChainAss4/assets/156776337/629b159b-f4b1-4247-b58a-442129d5882f)
